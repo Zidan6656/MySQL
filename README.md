@@ -1,10 +1,8 @@
-# Mini Project MySQL: Sistem Informasi Rumah Sakit
+# 🏥 Mini Project MySQL: Sistem Informasi Rumah Sakit / Hospital Information System
 
 > **English version: see below**
 
 ---
-
-# 🏥 Mini Project MySQL: Sistem Informasi Rumah Sakit / Hospital Information System
 
 **Author:** Zidan6656  
 **Source:** Self-made, college/personal project  
