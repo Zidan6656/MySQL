@@ -1,6 +1,6 @@
 # Mini Project MySQL: Sistem Informasi Rumah Sakit
 
-> **English version: see below / Versi bahasa Inggris: lihat di bawah**
+> **English version: see below**
 
 ---
 
