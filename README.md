@@ -89,8 +89,7 @@ The project contains database structure, sample data, procedures, and triggers f
 <details>
 <summary>📊 Klik untuk melihat ERD</summary>
 
-![ERD Rumah Sakit](<img width="1279" height="501" alt="ERD PNG" src="https://github.com/user-attachments/assets/2b925e75-1ba6-4fbe-a01d-a71a10e55b18" />
-)
+![ERD Rumah Sakit](Sreenshots/ERD.png)
 
 </details>
 
