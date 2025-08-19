@@ -24,7 +24,7 @@ Proyek ini berisi struktur database, data contoh, prosedur, dan trigger yang dap
 
 ### Video Dokumentasi
 [![Tonton Video Dokumentasi](https://img.youtube.com/vi/D5M8y6vJb5w/0.jpg)](https://www.youtube.com/watch?v=D5M8y6vJb5w)
-\nAtau: https://www.youtube.com/watch?v=D5M8y6vJb5w
+                      Atau: https://www.youtube.com/watch?v=D5M8y6vJb5w
 
 ### Catatan
 - Project ini untuk pembelajaran, silakan dikembangkan lagi.
