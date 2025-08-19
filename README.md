@@ -89,7 +89,7 @@ The project contains database structure, sample data, procedures, and triggers f
 <details>
 <summary>📊 Klik untuk melihat ERD</summary>
 
-![ERD Rumah Sakit](Sreenshots/ERD.png)
+![ERD Rumah Sakit]("C:\Users\acer\Pictures\Screenshots\ERD.png.png")
 
 </details>
 
