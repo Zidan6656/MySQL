@@ -1,6 +1,6 @@
 # 🏥 Mini Project MySQL: Sistem Informasi Rumah Sakit / Hospital Information System
 
-> **For English Language** see below
+> **For English Language** (see below)
 ---
 
 **Author:** Zidan6656  
