@@ -163,7 +163,7 @@ The project contains the database structure, sample data, stored procedures, and
 
 ## ERD - Entity Relationship Diagram
 
-![ERD Rumah Sakit](ERD.png.png)
+![ERD Rumah Sakit](ERD.png)
 
 ---
 
