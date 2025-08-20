@@ -39,7 +39,7 @@ The project contains database structure, sample data, procedures, and triggers f
 
 ---
 
-## 🗂 Fitur Database / Database Features
+## 🗂 Fitur Database
 - Tabel data **administrator**, **dokter**, **pasien**, **obat**, dan relasi terkait  
 - Prosedur untuk simulasi transaksi database  
 - Trigger untuk stok obat setiap transaksi  
@@ -54,7 +54,7 @@ The project contains database structure, sample data, procedures, and triggers f
 
 ---
 
-## ⚡ Cara Menggunakan / How to Use
+## ⚡ Cara Menggunakan
 1. Siapkan MySQL & phpMyAdmin.  
 2. Buat database baru, misal `rumahsakit`.  
 3. Import file `rumahsakit.sql` via phpMyAdmin (menu **Import**).  
@@ -62,7 +62,7 @@ The project contains database structure, sample data, procedures, and triggers f
 
 ---
 
-## 📊 Daftar Tabel Utama / Main Tables
+## 📊 Daftar Tabel Utama
 
 | Tabel / Table    | Deskripsi / Description                          |
 |------------------|--------------------------------------------------|
@@ -77,7 +77,7 @@ The project contains database structure, sample data, procedures, and triggers f
 
 ---
 
-## 🔄 Prosedur & Trigger / Procedures & Triggers
+## 🔄 Prosedur & Trigger
 - **Stored Procedures** → contoh transaksi insert/update data pasien.  
 - **Trigger** → otomatis mengurangi stok obat setelah transaksi obat.  
 
@@ -94,14 +94,14 @@ The project contains database structure, sample data, procedures, and triggers f
 
 ---
 
-## 🎥 Video Dokumentasi / Documentation Video
+## 🎥 Video Dokumentasi
 Klik thumbnail berikut untuk menonton penjelasan lengkap di YouTube:
 
 [![Tonton Video Dokumentasi](https://img.youtube.com/vi/D5M8y6vJb5w/0.jpg)](https://www.youtube.com/watch?v=D5M8y6vJb5w)
 
 ---
 
-## 📝 Catatan / Notes
+## 📝 Catatan
 - Project ini adalah contoh sederhana untuk pembelajaran database.  
 - Bisa dikembangkan lebih lanjut sesuai kebutuhan.  
 
