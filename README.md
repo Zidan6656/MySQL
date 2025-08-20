@@ -17,7 +17,7 @@
 - [Cara Menggunakan](#-cara-menggunakan)
 - [Daftar Tabel Utama](#-daftar-tabel-utama)
 - [Prosedur & Trigger](#-prosedur--trigger)
-- [Entity Relationship Diagram](#-entity-relationship-diagram)
+- [ERD](#erd---entity-relationship-diagram)
 - [Video Dokumentasi](#-video-dokumentasi)
 - [Catatan](#-catatan)
 
@@ -74,7 +74,7 @@ Proyek ini berisi struktur database, data contoh, prosedur, dan trigger yang dap
 
 ---
 
-## 🖼️ Entity Relationship Diagram
+## 🖼️ ERD - Entity Relationship Diagram
 
 ![ERD Rumah Sakit](ERD.png.png)
 
