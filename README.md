@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Table of Contents
+## 📖 Daftar Isi
 - [Deskripsi (Bahasa Indonesia)](#-deskripsi-bahasa-indonesia)
 - [Fitur Database](#-fitur-database)
 - [File](#-file)
@@ -41,7 +41,7 @@ Proyek ini berisi struktur database, data contoh, prosedur, dan trigger yang dap
 ## 📂 File
 - `rumahsakit.sql` → SQL dump from phpMyAdmin (tables, procedures, triggers, relations, sample data).  
 - `erd.png` → Entity Relationship Diagram (see below).  
-- (Opsional) `query_examples.sql` → Sample SQL queries.  
+-  query_examples.sql` → Sample SQL queries.  
 
 ---
 
