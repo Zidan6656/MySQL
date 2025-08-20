@@ -74,7 +74,7 @@ Proyek ini berisi struktur database, data contoh, prosedur, dan trigger yang dap
 
 ---
 
-## 🖼️ ERD - Entity Relationship Diagram
+## ERD - Entity Relationship Diagram
 
 ![ERD Rumah Sakit](ERD.png.png)
 
