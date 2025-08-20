@@ -17,7 +17,7 @@
 - [Cara Menggunakan](#-cara-menggunakan)
 - [Daftar Tabel Utama](#-daftar-tabel-utama)
 - [Prosedur & Trigger](#-prosedur--trigger)
-- [ERD](#erd---entity-relationship-diagram)
+- [ERD - Entity Relationship Diagram](#erd---entity-relationship-diagram)
 - [Video Dokumentasi](#-video-dokumentasi)
 - [Catatan](#-catatan)
 
