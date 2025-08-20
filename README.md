@@ -104,7 +104,7 @@ Atau akses link: https://www.youtube.com/watch?v=D5M8y6vJb5w
 - [Files](#-files)
 - [How to Use](#-how-t0-use)
 - [Main Tables](#-main-tables)
-- [Procedures & Triggers](#-prosedures--triggers)
+- [Procedures & Triggers](#-procedures--trigger)
 - [ERD - Entity Relationship Diagram](#erd---entity-relationship-diagram)
 - [Documentation Video](#-documentation-video)
 - [Notes](#-notes)
@@ -155,7 +155,7 @@ The project contains the database structure, sample data, stored procedures, and
 
 ---
 
-## 🔄 Procedures & Triggers
+## 🔄 Procedures & Trigger
 - **Stored Procedures** → example transactions for inserting/updating patient data.  
 - **Trigger** → automatically decreases medicine stock after each transaction.  
 
