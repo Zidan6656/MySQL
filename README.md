@@ -12,15 +12,14 @@
 
 ## 📖 Table of Contents
 - [Deskripsi (Bahasa Indonesia)](#-deskripsi-bahasa-indonesia)
-- [Description (English)](#-description-english)
-- [Fitur Database](#-fitur-database--database-features)
+- [Fitur Database](#-fitur-database)
 - [File](#-file)
-- [Cara Menggunakan / How to Use](#-cara-menggunakan--how-to-use)
-- [Daftar Tabel Utama](#-daftar-tabel-utama--main-tables)
-- [Prosedur & Trigger](#-prosedur--trigger--procedures--triggers)
+- [Cara Menggunakan](#-cara-menggunakan)
+- [Daftar Tabel Utama](#-daftar-tabel-utama)
+- [Prosedur & Trigger](#-prosedur--trigger)
 - [ERD](#-erd-entity-relationship-diagram)
-- [Video Dokumentasi](#-video-dokumentasi--documentation-video)
-- [Catatan](#-catatan--notes)
+- [Video Dokumentasi](#-video-dokumentasi)
+- [Catatan](#-catatan)
 
 ---
 
