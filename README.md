@@ -96,7 +96,6 @@ Atau akses link: https://www.youtube.com/watch?v=D5M8y6vJb5w
 
 ---
 
-<details>
 <summary><b>English Version (click to expand)</b></summary>
 
 ## 📖 Table of Contents
