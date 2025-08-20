@@ -17,7 +17,7 @@
 - [Cara Menggunakan](#-cara-menggunakan)
 - [Daftar Tabel Utama](#-daftar-tabel-utama)
 - [Prosedur & Trigger](#-prosedur--trigger)
-- [ERD (Entity Relationship Diagram)](#-erd-entity-relationship-diagram)
+- [ERD (Entity Relationship Diagram)](#-ERD-Entity-Relationship-Diagram)
 - [Video Dokumentasi](#-video-dokumentasi)
 - [Catatan](#-catatan)
 
@@ -28,7 +28,6 @@
 Ini adalah mini project basis data MySQL untuk simulasi sistem informasi rumah sakit.  
 Proyek ini berisi struktur database, data contoh, prosedur, dan trigger yang dapat digunakan untuk pembelajaran atau portofolio.
 
-<details>
 ---
 
 ## 🗂 Fitur Database
