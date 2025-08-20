@@ -1,5 +1,6 @@
 # 🏥 Mini Project MySQL: Sistem Informasi Rumah Sakit / Hospital Information System
 
+> **For English Language** see below
 ---
 
 **Author:** Zidan6656  
@@ -7,8 +8,7 @@
 **License:** Free to use for learning purposes  
 
 ---
-<details>
-<summary><b>Bahasa Indonesia (klik untuk memperluas)</b></summary>
+
   
 ## 📖 Daftar Isi
 - [Deskripsi (Bahasa Indonesia)](#-deskripsi-bahasa-indonesia)
@@ -95,7 +95,7 @@ Atau akses link: https://www.youtube.com/watch?v=D5M8y6vJb5w
 
 
 ---
-
+<details>
 <summary><b>English Version (click to expand)</b></summary>
 
 ## 📖 Table of Contents
