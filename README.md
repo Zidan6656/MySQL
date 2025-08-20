@@ -17,7 +17,7 @@
 - [Cara Menggunakan](#-cara-menggunakan)
 - [Daftar Tabel Utama](#-daftar-tabel-utama)
 - [Prosedur & Trigger](#-prosedur--trigger)
-- [Entity Relationship Diagram](#-Entity-Relationship-Diagram)
+- [Entity Relationship Diagram](#-entity-relationship-diagram)
 - [Video Dokumentasi](#-video-dokumentasi)
 - [Catatan](#-catatan)
 
@@ -84,6 +84,8 @@ Proyek ini berisi struktur database, data contoh, prosedur, dan trigger yang dap
 Klik thumbnail berikut untuk menonton penjelasan lengkap di YouTube:
 
 [![Tonton Video Dokumentasi](https://img.youtube.com/vi/D5M8y6vJb5w/0.jpg)](https://www.youtube.com/watch?v=D5M8y6vJb5w)
+
+Atau akses link: https://www.youtube.com/watch?v=D5M8y6vJb5w
 
 ---
 
