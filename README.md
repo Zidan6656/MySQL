@@ -78,7 +78,7 @@ Proyek ini berisi struktur database, data contoh, prosedur, dan trigger yang dap
 
 <summary>📊 Klik untuk melihat ERD</summary>
 
-![ERD Rumah Sakit](https://drive.google.com/file/d/1oJHFi4i-4VRTUDr0reW3LHSR9NuHzxNX/view?usp=sharing)
+![ERD Rumah Sakit](ERD.png.png)
 
 <detail>
 ---
