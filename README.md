@@ -99,7 +99,7 @@ Atau akses link: https://www.youtube.com/watch?v=D5M8y6vJb5w
 <summary><b>English Version (click to expand)</b></summary>
 
 ## 📖 Table of Contents
-- [Description (English Language)](#-desciption-english-language)
+- [Description (English)](#-desciption-english)
 - [Database Feature](#-database-feature)
 - [Files](#-files)
 - [How to Use](#-how-t0-use)
@@ -111,7 +111,7 @@ Atau akses link: https://www.youtube.com/watch?v=D5M8y6vJb5w
 
 ---
 
-## 📌 Description (English Language)
+## 📌 Description (English)
 This is a MySQL database mini project that simulates a hospital information system.
 The project contains the database structure, sample data, stored procedures, and triggers that can be used for learning or as part of a portfolio.
 
