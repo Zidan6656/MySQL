@@ -99,10 +99,10 @@ Atau akses link: https://www.youtube.com/watch?v=D5M8y6vJb5w
 <summary><b>English Version (click to expand)</b></summary>
 
 ## 📖 Table of Contents
-- [Description (English)](#-desciption-english)
+- [Description (English)](#-Desciption-English)
 - [Database Feature](#-database-feature)
 - [Files](#-files)
-- [How to Use](#-how-t0-use)
+- [How to Use](#-how-to-use)
 - [Main Tables](#-main-tables)
 - [Procedures & Triggers](#-procedures--trigger)
 - [ERD - Entity Relationship Diagram](#erd---entity-relationship-diagram)
